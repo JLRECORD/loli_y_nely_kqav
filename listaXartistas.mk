@@ -1,0 +1,1 @@
+[{"artista":"loli y nely","foto":"https://cdn.jsdelivr.net/gh/JLRECORD/lobo_dark_56m5/aaa.jpg","musica":"https://cdn.jsdelivr.net/gh/JLRECORD/loli_y_nely_kqav/aaa.mp3","campo1":"Pop","id":"7iQDf","campo2":"https://jlrecord.github.io/loli_y_nely_kqav/aaa.html","publicacion":"Las nasti"}]
